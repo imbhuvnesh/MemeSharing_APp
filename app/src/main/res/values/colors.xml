@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="nextButtonColor">#9C174B</color>
+    <color name="shareButtonColor">#CC1A5F</color>
+    <color name="backgoundColor">#000000</color>
+    <color name="textColor">#fff</color>
+</resources>
